@@ -1,0 +1,15 @@
+*{
+    background-color: antiquewhite;
+}
+
+.rec-sq {
+    display: flex;
+    gap: 2em;
+    margin: 2em;
+   }
+  
+   .quadrado {
+    width: 30rem;
+    height: 18rem;
+    background: rgb(0, 119, 128);
+   }
